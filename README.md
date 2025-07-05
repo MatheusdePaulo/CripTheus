@@ -17,16 +17,16 @@ Destaques:
 Telas:
 
 ### Tela de Login
-![Login](./assets/login.jpg)
+![Tela de Login](./assets/login.png)
 
-### Tela de Registro
-![Registro](./assets/registro.png)
+### Tela de Registro  
+![Tela de Registro](./assets/registro.png)
 
 ### Tela do Usuário Comum
-![Usuário Comum](./assets/usuario.png)
+![Tela do Usuário](./assets/comun.png)
 
 ### Tela do Administrador
-![Administrador](./assets/admin.png)
+![Tela do Admin](./assets/adm.png)
 
 ## 🛠️ Tecnologias Utilizadas
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
