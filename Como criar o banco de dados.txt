@@ -1,0 +1,25 @@
+Criando o banco de dados cryptoproject.sql
+
+1 -Execute no MySQL:
+Digite:
+	mysql -u seu_usuario -p < cryptoproject.sql
+
+2- Digite a senha quando solicitado:
+
+Para acessar como administrador:
+
+Usuário: admin
+
+Senha: senha123
+
+
+
+Notas importantes:
+
+Todas as senhas estão definidas como senha123 (você pode alterar no script se necessário)
+
+Apenas o usuário admin tem permissão de administrador (is_admin = 1)
+
+Os hashes de senha foram gerados com password_hash('senha123', PASSWORD_DEFAULT)
+
+By. Matheus de Paulo
